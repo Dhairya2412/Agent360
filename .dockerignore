@@ -1,9 +1,6 @@
-venv/
-__pycache__/
-*.py[cod]
-.pytest_cache/
+node_modules/
+.next/
 .env
-chroma_db/
-uploads/
-*.log
+.env.local
 .git/
+*.log
