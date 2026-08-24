@@ -1,0 +1,1 @@
+VPN troubleshooting policy: If a user cannot connect to VPN, first verify MFA enrollment, then reset the VPN profile, then escalate to IT Security if the problem persists.
