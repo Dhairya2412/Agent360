@@ -2,8 +2,6 @@
 
 **Multi-agent enterprise workflow automation platform** — route messy business requests through orchestrator, planner, retrieval, domain specialist, critic, human approval, tool execution, and audit agents.
 
-![AgentOps360 Dashboard](docs/screenshots/dashboard.png)
-> Screenshot placeholder — run the app locally to capture your dashboard.
 
 ---
 
